@@ -1,0 +1,86 @@
+body {
+    text-align: center;
+    
+}
+.img{
+    background-image: url("https://cdn.pixabay.com/photo/2017/11/24/10/43/admission-2974645_960_720.jpg");
+    background-size: 100%;
+}
+h1 {
+    color: #FFFFFF;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #952F57, 0 0 30px #952F57, 0 0 40px #952F57, 0 0 55px #952F57, 0 0 75px #952F57;
+    font-size: 100px;
+}
+
+div {
+    position: relative;
+}
+
+.Cerrar {
+    position: relative;
+    bottom: -600px;
+    left: -700px;
+    color: #ffffff;
+
+}
+.Inicio {
+    position: relative;
+    top: 200px;
+    left: -300px;
+    /* Margen */
+    border: 3px solid transparent;
+    width: 400px;
+    padding: 100px;
+    /*Estilo de letra*/
+    font-family: Georgia, serif;
+    font-size: 40px;
+    letter-spacing: 6px;
+    word-spacing: -5px;
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+
+.Medio {
+    position: relative;
+    top: 300px;
+    /* Margen */
+    border: 3px solid transparent;
+    width: 400px;
+    padding: 100px;
+    /*Estilo de letra*/
+    font-family: Georgia, serif;
+    font-size: 40px;
+    letter-spacing: 6px;
+    word-spacing: -5px;
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+.Final {
+    position: relative;
+    top: 200px;    
+    left: 300px;
+    /* Margen */
+    border: 3px solid transparent;
+    width: 400px;
+    padding: 100px;
+    /*Estilo de letra*/
+    font-family: Georgia, serif;
+    font-size: 40px;
+    letter-spacing: 6px;
+    word-spacing: -5px;
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+
+}

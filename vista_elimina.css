@@ -1,0 +1,19 @@
+body {
+    font-family: "Inconsolata", Arial, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.7;
+    text-align: center;
+    color: #333333;
+    background: #fff;
+  }
+
+  div {
+    background-image: url('fondo.jpg');
+	background-position: center top;
+	background-size: cover;
+	padding: 250px 0;
+	margin: 30px;
+	text-shadow: 0 2px #ffffff;
+	font-family: 'Trebuchet MS', 'Helvetica';
+  }

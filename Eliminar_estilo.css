@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-image: url("https://cdn.pixabay.com/photo/2013/07/12/18/41/explosion-153710_960_720.png");
+    background-size: 100%;
+}
+
+div {
+    position: relative; top: 200px;
+}
+
+h1 {
+    color: black;
+    text-shadow: 0 0 10px #FFFFFF;
+    font-size: 100px;
+}
+
+.Boton{
+    display: inline-block;
+    text-align: center;
+    background: white;
+    color: var(--bg);
+    font-weight: bold;
+    padding: 1.18em 1.32em 1.03em;
+    line-height: 1;
+    border-radius: 1em;
+    position: relative;
+    min-width: 8.23em;
+    text-decoration: none;
+    font-family: var(--font);
+    font-size: 1.25rem;
+}
+
+.Entrada {
+    background: white;
+   border: 1px transparent;
+   border-radius: 50px;
+   color: #393939;
+   font-size: 30px;
+   padding: 20px;
+}

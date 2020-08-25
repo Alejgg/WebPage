@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-image: url("https://cdn.pixabay.com/photo/2015/06/25/11/37/jigsaw-puzzles-821171_960_720.jpg");
+    background-size: 100%;
+}
+
+div {
+    position: relative; top: 200px;
+}
+
+h1 {
+    color: #FFFFFF;
+     text-shadow: #474747 3px 5px 2px;
+    font-size: 80px;
+}
+
+.Boton{
+    display: inline-block;
+    text-align: center;
+    background: white;
+    color: var(--bg);
+    font-weight: bold;
+    padding: 1.18em 1.32em 1.03em;
+    line-height: 1;
+    border-radius: 1em;
+    position: relative;
+    min-width: 8.23em;
+    text-decoration: none;
+    font-family: var(--font);
+    font-size: 1.25rem;
+}
+
+.Entrada {
+    background: white;
+   border: 1px transparent;
+   border-radius: 50px;
+   color: #393939;
+   font-size: 30px;
+   padding: 5px;
+}
